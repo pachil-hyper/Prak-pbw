@@ -1,8 +1,8 @@
 # Laporan Praktikum Pemrograman Berbasis Web (PBW)
 
 ## Identitas
-- Nama : Abner Gultom  
-- NPM  : 4523210002  
+- Nama : Fazril Fadilah 
+- NPM  : 4523210047  
 - Dosen Pengampu : 	Adi Wahyu Pribadi, S.Si., M.Kom  
 
 ---
